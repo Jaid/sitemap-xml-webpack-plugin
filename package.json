@@ -6,11 +6,13 @@
   "dependencies": {
     "@absolunet/fss": "^1.6.1",
     "@babel/runtime": "^7.4.5",
-    "json5": "^2.1.0",
-    "publishimo": "^5.0.4",
-    "stringify-author": "^0.1.3"
+    "lodash": "^4.17.11",
+    "magina": "^1.1.0",
+    "resolve-any": "^1.0.0",
+    "sitemap": "^2.2.0"
   },
   "devDependencies": {
+    "@absolunet/fsp": "^1.6.1",
     "acorn": "^6.1.1",
     "babel-jest": "^24.8.0",
     "babel-preset-jaid": "^6.8.0",

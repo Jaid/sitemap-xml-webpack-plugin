@@ -1,7 +1,7 @@
 /** @module sitemap-xml-webpack-plugin */
 
 import resolveAny from "resolve-any"
-import sitemapBuilder from "sitemap"
+import createSitemap from "sitemap"
 import {ensureObject} from "magina"
 import {sortBy,uniqBy} from "lodash"
 
@@ -69,7 +69,7 @@ export default class {
         })
         |> uniqBy(#, "url")
         |> sortBy(#, "url")
-      const sitemap = sitemapBuilder.createSitemap({
+      const sitemap = createSitemap({
         urls,
         cacheTime: 0,
         hostname: `${this.options.protocol}://${this.options.domain}`,

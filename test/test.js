@@ -34,7 +34,7 @@ it("should run", async () => {
   const xml = await fsp.readXml(path.join(__dirname, "..", "dist", "test", name, "sitemap.xml"))
   expect(xml.urlset.$.xmlns).toMatch("sitemaps.org/")
   expect(xml.urlset.url[0]).toMatchObject({
-    loc: ["https://example.com"],
+    loc: ["https://example.com/"],
     changefreq: ["daily"],
   })
 })

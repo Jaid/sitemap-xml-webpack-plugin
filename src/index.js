@@ -3,7 +3,7 @@
 import resolveAny from "resolve-any"
 import sitemapBuilder from "sitemap"
 import {ensureObject} from "magina"
-import {sortBy} from "lodash"
+import {sortBy,uniqBy} from "lodash"
 
 const webpackId = "SitemapXmlWebpackPlugin"
 
@@ -67,6 +67,7 @@ export default class {
           }
           return entry
         })
+        |> uniqBy(#, "url")
         |> sortBy(#, "url")
       const sitemap = sitemapBuilder.createSitemap({
         urls,

@@ -3,6 +3,15 @@
 
 Webpack plugin that emits a sitemap.xml file.
 
+## Installation
+<a href='https://npmjs.com/package/sitemap-xml-webpack-plugin'><img alt='npm logo' src='https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.png' height=16/></a>
+```bash
+npm install --save sitemap-xml-webpack-plugin@^
+```
+<a href='https://yarnpkg.com/package/sitemap-xml-webpack-plugin'><img alt='Yarn logo' src='https://raw.githubusercontent.com/yarnpkg/assets/master/yarn-kitten-full.png' height=24/></a>
+```bash
+yarn add sitemap-xml-webpack-plugin@^
+```
 
 
 ## Try it out

@@ -39,5 +39,6 @@
     "test:debug": "DEBUG=\"$(basename $PWD),$(basename $PWD):*\" NODE_ENV=test node --inspect=9229 node_modules/jest/bin/jest.js --runInBand",
     "prepareActionJest": "npm run build:prod"
   },
-  "name": "sitemap-xml-webpack-plugin"
+  "name": "sitemap-xml-webpack-plugin",
+  "description": "Webpack plugin that emits a sitemap.xml file."
 }

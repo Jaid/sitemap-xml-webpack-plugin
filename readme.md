@@ -1,14 +1,32 @@
 # sitemap-xml-webpack-plugin
 
 
-Webpack plugin that emits a sitemap.xml file.
+<a href="https://raw.githubusercontent.com/Jaid/sitemap-xml-webpack-plugin/master/license.txt"><img src="https://img.shields.io/github/license/Jaid/sitemap-xml-webpack-plugin?style=flat-square" alt="License"/></a>  
+<a href="https://actions-badge.atrox.dev/Jaid/sitemap-xml-webpack-plugin/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2FJaid%2Fsitemap-xml-webpack-plugin%2Fbadge" alt="Build status"/></a> <a href="https://github.com/Jaid/sitemap-xml-webpack-plugin/commits"><img src="https://img.shields.io/github/commits-since/Jaid/sitemap-xml-webpack-plugin/v1.1.0?style=flat-square&logo=github" alt="Commits since v1.1.0"/></a> <a href="https://github.com/Jaid/sitemap-xml-webpack-plugin/commits"><img src="https://img.shields.io/github/last-commit/Jaid/sitemap-xml-webpack-plugin?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/Jaid/sitemap-xml-webpack-plugin/issues"><img src="https://img.shields.io/github/issues/Jaid/sitemap-xml-webpack-plugin?style=flat-square&logo=github" alt="Issues"/></a>  
+<a href="https://npmjs.com/package/sitemap-xml-webpack-plugin"><img src="https://img.shields.io/npm/v/sitemap-xml-webpack-plugin?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/Jaid/sitemap-xml-webpack-plugin/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/sitemap-xml-webpack-plugin?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/sitemap-xml-webpack-plugin"><img src="https://img.shields.io/npm/dm/sitemap-xml-webpack-plugin?style=flat-square&logo=npm" alt="Downloads"/></a>
+
+**Webpack plugin that emits a sitemap.xml file.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Installation
-<a href='https://npmjs.com/package/sitemap-xml-webpack-plugin'><img alt='npm logo' src='https://github.com/Jaid/action-readme/raw/master/images/base-assets/npm.png'/></a>
+<a href="https://npmjs.com/package/sitemap-xml-webpack-plugin"><img src="https://img.shields.io/badge/npm-sitemap--xml--webpack--plugin-C23039?style=flat-square&logo=npm" alt="sitemap-xml-webpack-plugin on npm"/></a>
 ```bash
 npm install --save sitemap-xml-webpack-plugin@^1.1.0
 ```
-<a href='https://yarnpkg.com/package/sitemap-xml-webpack-plugin'><img alt='Yarn logo' src='https://github.com/Jaid/action-readme/raw/master/images/base-assets/yarn.png'/></a>
+<a href="https://yarnpkg.com/package/sitemap-xml-webpack-plugin"><img src="https://img.shields.io/badge/Yarn-sitemap--xml--webpack--plugin-2F8CB7?style=flat-square&logo=yarn&logoColor=white" alt="sitemap-xml-webpack-plugin on Yarn"/></a>
 ```bash
 yarn add sitemap-xml-webpack-plugin@^1.1.0
 ```
@@ -16,11 +34,35 @@ yarn add sitemap-xml-webpack-plugin@^1.1.0
 
 
 
+
+
+
+
+## Development
+
+
+
+Setting up:
+```bash
+git clone git@github.com:Jaid/sitemap-xml-webpack-plugin.git
+cd sitemap-xml-webpack-plugin
+npm install
+```
+Testing:
+```bash
+npm run test:dev
+```
+Testing in production environment:
+```bash
+npm run test
+```
+
+
 ## License
 ```text
 MIT License
 
-Copyright © 2019, Jaid <jaid.jsx@gmail.com> (github.com/jaid)
+Copyright © 2020, Jaid <jaid.jsx@gmail.com> (github.com/jaid)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

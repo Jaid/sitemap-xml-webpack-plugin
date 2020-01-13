@@ -40,5 +40,6 @@
     "prepareActionJest": "npm run build:prod"
   },
   "name": "sitemap-xml-webpack-plugin",
-  "description": "Webpack plugin that emits a sitemap.xml file."
+  "description": "Webpack plugin that emits a sitemap.xml file.",
+  "funding": "https://github.com/sponsors/jaid"
 }

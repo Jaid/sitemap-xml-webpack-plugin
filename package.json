@@ -41,5 +41,9 @@
   },
   "name": "sitemap-xml-webpack-plugin",
   "description": "Webpack plugin that emits a sitemap.xml file.",
-  "funding": "https://github.com/sponsors/jaid"
+  "funding": "https://github.com/sponsors/jaid",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaid/sitemap-xml-webpack-plugin"
+  }
 }

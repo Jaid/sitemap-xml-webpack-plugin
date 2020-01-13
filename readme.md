@@ -1,9 +1,9 @@
 # sitemap-xml-webpack-plugin
 
 
-<a href="https://raw.githubusercontent.com/Jaid/sitemap-xml-webpack-plugin/master/license.txt"><img src="https://img.shields.io/github/license/Jaid/sitemap-xml-webpack-plugin?style=flat-square" alt="License"/></a>  
-<a href="https://actions-badge.atrox.dev/Jaid/sitemap-xml-webpack-plugin/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2FJaid%2Fsitemap-xml-webpack-plugin%2Fbadge" alt="Build status"/></a> <a href="https://github.com/Jaid/sitemap-xml-webpack-plugin/commits"><img src="https://img.shields.io/github/commits-since/Jaid/sitemap-xml-webpack-plugin/v1.1.0?style=flat-square&logo=github" alt="Commits since v1.1.0"/></a> <a href="https://github.com/Jaid/sitemap-xml-webpack-plugin/commits"><img src="https://img.shields.io/github/last-commit/Jaid/sitemap-xml-webpack-plugin?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/Jaid/sitemap-xml-webpack-plugin/issues"><img src="https://img.shields.io/github/issues/Jaid/sitemap-xml-webpack-plugin?style=flat-square&logo=github" alt="Issues"/></a>  
-<a href="https://npmjs.com/package/sitemap-xml-webpack-plugin"><img src="https://img.shields.io/npm/v/sitemap-xml-webpack-plugin?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/Jaid/sitemap-xml-webpack-plugin/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/sitemap-xml-webpack-plugin?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/sitemap-xml-webpack-plugin"><img src="https://img.shields.io/npm/dm/sitemap-xml-webpack-plugin?style=flat-square&logo=npm" alt="Downloads"/></a>
+<a href="https://raw.githubusercontent.com/jaid/sitemap-xml-webpack-plugin/master/license.txt"><img src="https://img.shields.io/github/license/jaid/sitemap-xml-webpack-plugin?style=flat-square" alt="License"/></a> <a href="https://github.com/sponsors/jaid"><img src="https://img.shields.io/badge/<3-Sponsor-FF45F1?style=flat-square" alt="Sponsor sitemap-xml-webpack-plugin"/></a>
+<a href="https://actions-badge.atrox.dev/jaid/sitemap-xml-webpack-plugin/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2Fjaid%2Fsitemap-xml-webpack-plugin%2Fbadge" alt="Build status"/></a> <a href="https://github.com/jaid/sitemap-xml-webpack-plugin/commits"><img src="https://img.shields.io/github/commits-since/jaid/sitemap-xml-webpack-plugin/v1.1.0?style=flat-square&logo=github" alt="Commits since v1.1.0"/></a> <a href="https://github.com/jaid/sitemap-xml-webpack-plugin/commits"><img src="https://img.shields.io/github/last-commit/jaid/sitemap-xml-webpack-plugin?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/jaid/sitemap-xml-webpack-plugin/issues"><img src="https://img.shields.io/github/issues/jaid/sitemap-xml-webpack-plugin?style=flat-square&logo=github" alt="Issues"/></a>  
+<a href="https://npmjs.com/package/sitemap-xml-webpack-plugin"><img src="https://img.shields.io/npm/v/sitemap-xml-webpack-plugin?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/jaid/sitemap-xml-webpack-plugin/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/sitemap-xml-webpack-plugin?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/sitemap-xml-webpack-plugin"><img src="https://img.shields.io/npm/dm/sitemap-xml-webpack-plugin?style=flat-square&logo=npm" alt="Downloads"/></a>
 
 **Webpack plugin that emits a sitemap.xml file.**
 
@@ -37,14 +37,13 @@ yarn add sitemap-xml-webpack-plugin@^1.1.0
 
 
 
-
 ## Development
 
 
 
 Setting up:
 ```bash
-git clone git@github.com:Jaid/sitemap-xml-webpack-plugin.git
+git clone git@github.com:jaid/sitemap-xml-webpack-plugin.git
 cd sitemap-xml-webpack-plugin
 npm install
 ```
